@@ -17,8 +17,4 @@ Predicts AirBnB rental prices based on listing features such as neighbourhood gr
 
 The Linear Regression model achieves an R2 score of 0.14 on the test set. The low score is attributed to significant outliers in the dataset, which negatively impact model performance.
 
-## How to Run
 
-1. Ensure `dataSP23.csv` is in the same directory as the notebook.
-2. Open `AirBnB.ipynb` in Jupyter Notebook or JupyterLab.
-3. Run all cells to preprocess data, train the model, and view predictions and visualizations.
